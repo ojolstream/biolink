@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prankojol.netlify.app/sitemap.xml
+Sitemap: https://biolink.ojolstream.org/sitemap.xml
